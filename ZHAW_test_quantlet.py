@@ -19,6 +19,7 @@ from matplotlib.ticker import LinearLocator, FormatStrFormatter
 import numpy as np
 
 
+print('test')
 fig = plt.figure()
 ax = fig.gca(projection='3d')
 
