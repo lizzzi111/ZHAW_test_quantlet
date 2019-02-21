@@ -1,0 +1,12 @@
+
+Name of QuantLet : ZHAW_test_quantlet
+
+Published in : ZHAW
+
+Description : 'Motivation example quantlet generation'
+
+Keywords : Quantlet, visualisation, test, distribution, 3d plot
+
+Author : Elizaveta Zinovyeva
+
+Submitted : Fri, January 21 2019 by Elizaveta Zinovyeva
